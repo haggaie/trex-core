@@ -1,0 +1,4 @@
+[submodule "scripts/external_libs/scapy-2.4.4"]
+	path = scripts/external_libs/scapy-2.4.4
+	url = https://github.com/haggaie/scapy
+	branch = origin/v2.4.4

@@ -1453,7 +1453,7 @@ client_external_libs = [
         'jsonrpclib-pelix-0.4.1',
         'pyyaml-3.11',
         'pyzmq-ctypes',
-        'scapy-2.4.3',
+        'scapy-2.4.4',
         'texttable-0.8.4',
         'simpy-3.0.10',
         'trex-openssl',
